@@ -1,0 +1,8 @@
+C:\Users\pedro.hgaspar2\source\repos\Aula-Algoritimo\aulinha 3 do paulin\aulinha 3 do paulin\bin\Debug\aulinha 3 do paulin.exe.config
+C:\Users\pedro.hgaspar2\source\repos\Aula-Algoritimo\aulinha 3 do paulin\aulinha 3 do paulin\bin\Debug\aulinha 3 do paulin.exe
+C:\Users\pedro.hgaspar2\source\repos\Aula-Algoritimo\aulinha 3 do paulin\aulinha 3 do paulin\bin\Debug\aulinha 3 do paulin.pdb
+C:\Users\pedro.hgaspar2\source\repos\Aula-Algoritimo\aulinha 3 do paulin\aulinha 3 do paulin\obj\Debug\aulinha 3 do paulin.csproj.AssemblyReference.cache
+C:\Users\pedro.hgaspar2\source\repos\Aula-Algoritimo\aulinha 3 do paulin\aulinha 3 do paulin\obj\Debug\aulinha 3 do paulin.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.hgaspar2\source\repos\Aula-Algoritimo\aulinha 3 do paulin\aulinha 3 do paulin\obj\Debug\aulinha 3 do paulin.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hgaspar2\source\repos\Aula-Algoritimo\aulinha 3 do paulin\aulinha 3 do paulin\obj\Debug\aulinha 3 do paulin.exe
+C:\Users\pedro.hgaspar2\source\repos\Aula-Algoritimo\aulinha 3 do paulin\aulinha 3 do paulin\obj\Debug\aulinha 3 do paulin.pdb

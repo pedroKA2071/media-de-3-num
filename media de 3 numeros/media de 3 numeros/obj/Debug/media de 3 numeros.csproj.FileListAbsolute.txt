@@ -1,0 +1,8 @@
+C:\Users\pedro.hgaspar2\source\repos\Aula-Algoritimo\media de 3 numeros\media de 3 numeros\bin\Debug\media de 3 numeros.exe.config
+C:\Users\pedro.hgaspar2\source\repos\Aula-Algoritimo\media de 3 numeros\media de 3 numeros\bin\Debug\media de 3 numeros.exe
+C:\Users\pedro.hgaspar2\source\repos\Aula-Algoritimo\media de 3 numeros\media de 3 numeros\bin\Debug\media de 3 numeros.pdb
+C:\Users\pedro.hgaspar2\source\repos\Aula-Algoritimo\media de 3 numeros\media de 3 numeros\obj\Debug\media de 3 numeros.csproj.AssemblyReference.cache
+C:\Users\pedro.hgaspar2\source\repos\Aula-Algoritimo\media de 3 numeros\media de 3 numeros\obj\Debug\media de 3 numeros.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.hgaspar2\source\repos\Aula-Algoritimo\media de 3 numeros\media de 3 numeros\obj\Debug\media de 3 numeros.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hgaspar2\source\repos\Aula-Algoritimo\media de 3 numeros\media de 3 numeros\obj\Debug\media de 3 numeros.exe
+C:\Users\pedro.hgaspar2\source\repos\Aula-Algoritimo\media de 3 numeros\media de 3 numeros\obj\Debug\media de 3 numeros.pdb
